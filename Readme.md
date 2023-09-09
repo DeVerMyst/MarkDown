@@ -96,9 +96,13 @@ ou une image en locale:
 | Ligne 3, colonne 1 | Ligne 3, colonne 2 | Ligne 3, colonne 3  |
 
 > ```| En-tête 1 | En-tête 2 | En-tête 3 |```
+> 
 > ```| - | - | - |```
+> 
 > ```| Ligne 1, colonne 1 | Ligne 1, colonne 2 | Ligne 1, colonne 3  |```
+> 
 > ```| Ligne 2, colonne 1 | Ligne 2, colonne 2 | Ligne 2, colonne 3  |```
+> 
 > ```| Ligne 3, colonne 1 | Ligne 3, colonne 2 | Ligne 3, colonne 3  |```
 
 **Tableau avec alignement**
@@ -109,6 +113,9 @@ ou une image en locale:
 | text 2          |  centre 2  |               droite 2 |
 
 > ```| le texte est aligné à gauche | Centrer | le texte est aligné à droite |```
+> 
 > ```| :--------------- | :---------------: | ---------------: |```
+> 
 > ```| text 1           |  centre 1  |             droite 1 |```
+> 
 > ```| text 2          |  centre 2  |               droite 2 |```
