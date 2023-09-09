@@ -52,18 +52,26 @@ def(x):
 **Liste**
 * premier niveau
   * deuxième niveau 
+    * troisième niveau 
+* deuxième élément
+  * deuxième niveau 
   
 ```
 * premier niveau
+  * deuxième niveau 
+    * troisième niveau 
+* deuxième élément
   * deuxième niveau 
 ```
 
 1. premier niveau
    1. deuxième niveau 
+      1. troisième niveau
   
 ```
 1. premier niveau
   1. deuxième niveau 
+      1. troisième niveau  
 ```
 
 **citation** 
